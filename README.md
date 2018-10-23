@@ -1,3 +1,6 @@
+Depreciated. Just use https://www.sdsetup.com/
+
+
 # Switch-Starterpack
 A homebrew starter pack for the Nintendo Switch for use with [my guide](https://t3chnolog1c.github.io/SwitchGuide/). (I don't own any of this)
 
